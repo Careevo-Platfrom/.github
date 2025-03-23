@@ -1,4 +1,4 @@
-# Careevo .github Repository
+# Careevo Repositories
 
 Welcome to the Careevo project. This repository houses community health files and configurations that apply across the Careevo organization, ensuring consistency and clarity in our open-source contributions.
 
